@@ -25,9 +25,18 @@
     "typescript": "~5.2.2"
   },
   "dependencies": {
-    "@flamework/components": "^1.2.2",
-    "@flamework/core": "^1.2.2",
-    "@flamework/networking": "^1.2.2",
+    "@flamework/components": "^1.2.4",
+    "@flamework/core": "^1.2.4",
+    "@flamework/networking": "^1.2.4",
+    "@rbxts/animation": "^2.1.0",
+    "@rbxts/camera-shaker": "^1.0.8",
+    "@rbxts/centurion": "^1.0.1",
+    "@rbxts/datastore2": "^1.4.0-ts.0",
+    "@rbxts/fetch": "^1.1.4-a",
+    "@rbxts/flamecs": "^0.1.0-rc.11",
+    "@rbxts/janitor": "^1.17.0-ts.1",
+    "@rbxts/profile-store": "^1.0.3",
+    "@rbxts/t": "^3.2.1",
     "@rbxts/topbar-plus": "^3.0.2-ts.2"
   }
 }
